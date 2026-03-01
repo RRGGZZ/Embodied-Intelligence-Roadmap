@@ -1,11 +1,10 @@
-# GitHub Star 知识管理体系报告（战略升级完整版）
+# GitHub Star 仓库分类
 
-> 目标：从“仓库分类”升级为“科研主线驱动的技术战略结构”  
 > 主线方向：Humanoid Loco-Manipulation + RL-MPC + Sim2Real
 
 ---
 
-# I. CORE RESEARCH TRACK（核心主线）🔥
+# I. CORE RESEARCH TRACK🔥
 
 ## 1️⃣ Humanoid Loco-Manipulation
 
@@ -76,7 +75,7 @@
 
 ---
 
-# III. INFRASTRUCTURE LAYER（研究基础设施）🛠
+# III. INFRASTRUCTURE LAYER 🛠
 
 ## Simulation Stack
 
@@ -128,7 +127,7 @@
 
 ---
 
-# VI. PARALLEL RESEARCH LINE（独立支线）
+# VI. PARALLEL RESEARCH LINE
 
 ## A. AFM & Nanotechnology
 
@@ -139,11 +138,10 @@
 | NanoLocz | https://github.com/George-R-Heath/NanoLocz |
 | Topopt-Comec | https://github.com/ninja7v/Topopt-Comec |
 
-> 独立研究线，不纳入 humanoid 主线战略。
 
 ---
 
-## B. EEG / BCI（兴趣探索）
+## B. EEG / BCI
 
 | 仓库 | 链接 |
 |------|------|
@@ -154,7 +152,7 @@
 
 ---
 
-# 技术演化路径图（未来3年）
+# 技术演化路径图
 
 Motion Prior  
 ↓  
@@ -170,13 +168,4 @@ Hardware Deployment
 
 ---
 
-本结构强调：
-
-1. 主线优先
-2. 理论支撑分层
-3. 工程与基础设施解耦
-4. 支线独立隔离
-5. 长期演化路径清晰
-
-这是一张科研战略地图，而不是收藏夹。
 
