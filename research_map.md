@@ -148,7 +148,6 @@
 | YuEEG | https://github.com/YuTaoV5/YuEEG |
 | SSVEP-BCI-OpenBCI | https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI |
 
-> Side curiosity，仅保留，不参与核心规划。
 
 ---
 
